@@ -1,0 +1,8 @@
+#ignore folders and files;
+.idea
+/vendor/autoload.php
+/composer.json
+/composer.lock
+/node_modules
+/package-lock.json
+/package.json
